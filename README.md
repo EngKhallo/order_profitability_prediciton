@@ -1,7 +1,5 @@
-***Order-Profitability-Prediction***
-
-**Project Description**: 
-📦 Order Profitability Prediction 📊
+<h1 align="center">Order-Profitability-Prediction</h1>
+<h3 align="center">📦 Order Profitability Prediction 📊</h3>
 
 Welcome to the Order Profitability Prediction project! This project aims to build machine learning models to predict the profitability of orders in a supply chain dataset. By leveraging various regression techniques, we strive to understand and forecast the financial performance of individual orders based on several key features. 🚀
 
