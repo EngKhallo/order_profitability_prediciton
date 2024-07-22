@@ -1,7 +1,7 @@
-**Project Name**
+**Project Name**: 
 Order-Profitability-Prediction
 
-**Project Description**
+**Project Description**: 
 📦 Order Profitability Prediction 📊
 
 Welcome to the Order Profitability Prediction project! This project aims to build machine learning models to predict the profitability of orders in a supply chain dataset. By leveraging various regression techniques, we strive to understand and forecast the financial performance of individual orders based on several key features. 🚀
